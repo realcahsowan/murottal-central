@@ -1,0 +1,35 @@
+[
+  {
+    "id": 2612,
+    "slug": "aaar-al-hudhoudi",
+    "name": "Aaar Al Hudhoudi",
+    "post_count": 111,
+    "country": "Saudi Arabia",
+    "dialect": "Abu al Haarith"
+  },
+  {
+    "id": 2931,
+    "slug": "abdallah-azab",
+    "name": "Abdallah Azab",
+    "post_count": 105,
+    "country": "Egypt",
+    "dialect": "Hafs"
+  },
+  {
+    "id": 2748,
+    "slug": "abdallah-humeid",
+    "name": "Abdallah Humeid",
+    "post_count": 28,
+    "country": "Kenya",
+    "dialect": "Hafs"
+  },
+  {
+    "id": 3020,
+    "slug": "maryam-amir",
+    "name": "Maryam Amir",
+    "post_count": 2,
+    "country": "USA",
+    "dialect": "Hafs",
+    "female": true
+  }
+]

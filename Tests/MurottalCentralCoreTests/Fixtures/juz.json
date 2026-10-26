@@ -1,0 +1,35 @@
+[
+  {
+    "index": 1,
+    "start": {
+      "surah": 1,
+      "verse": 1
+    },
+    "end": {
+      "surah": 2,
+      "verse": 141
+    }
+  },
+  {
+    "index": 2,
+    "start": {
+      "surah": 2,
+      "verse": 142
+    },
+    "end": {
+      "surah": 2,
+      "verse": 252
+    }
+  },
+  {
+    "index": 3,
+    "start": {
+      "surah": 2,
+      "verse": 253
+    },
+    "end": {
+      "surah": 3,
+      "verse": 92
+    }
+  }
+]
